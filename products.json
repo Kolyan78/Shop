@@ -1,0 +1,23 @@
+[
+  {"name": "Холодильник", "price": 40000, "rating": 2.59, "category": "Бытовая техника"},
+  {"name": "Телевизор", "price": 33500, "rating": 4.16, "category": "Бытовая техника"},
+  {"name": "Стиральная машина", "price": 32300, "rating": 4.77, "category": "Бытовая техника"},
+  {"name": "Посудомойка", "price": 39500, "rating": 2.12, "category": "Бытовая техника"},
+  {"name": "Стол письменный", "price": 12100, "rating": 3.86, "category": "Мебель"},
+  {"name": "Стул", "price": 1400, "rating": 2.75, "category": "Мебель"},
+  {"name": "Кровать", "price": 65000, "rating": 4.07, "category": "Мебель"},
+  {"name": "Шкаф", "price": 54200, "rating": 4.18, "category": "Мебель"},
+  {"name": "Ноутбук", "price": 72600, "rating": 2.56, "category": "Оргтехника"},
+  {"name": "Планшет", "price": 25100, "rating": 4.59, "category": "Оргтехника"},
+  {"name": "Смартфон", "price": 23800, "rating": 2.17, "category": "Оргтехника"},
+  {"name": "Принтер", "price": 12600, "rating": 3.9, "category": "Оргтехника"},
+  {"name": "Мультиварка", "price": 4100, "rating": 4.9, "category": "Бытовая техника"},
+  {"name": "Электроплита", "price": 37200, "rating": 4.1, "category": "Бытовая техника"},
+  {"name": "Комод", "price": 13000, "rating": 3.1, "category": "Мебель"},
+  {"name": "Пальто", "price": 11500, "rating": 4.1, "category": "Одежда"},
+  {"name": "Пиджак", "price": 7500, "rating": 3.5, "category": "Одежда"},
+  {"name": "Галстук", "price": 1200, "rating": 4.8, "category": "Одежда"},
+  {"name": "Шляпа", "price": 1700, "rating": 3.8, "category": "Одежда"},
+  {"name": "Калькулятор", "price": 700, "rating": 4.1, "category": "Оргтехника"},
+  {"name": "Наушники", "price": 4500, "rating": 4.1, "category": "Оргтехника"}
+]
